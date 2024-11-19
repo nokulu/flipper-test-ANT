@@ -1,6 +1,3 @@
-Using Flipper Zero as testing tool for ANT
-
-
 let eventLoop = require("event_loop");
 let gpio = require("gpio");
 
