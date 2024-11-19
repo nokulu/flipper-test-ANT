@@ -2,7 +2,7 @@
 
 #### Introduction
 
-This project is an essential step toward creating **ANT** (Autonomous Nerf Turret), a device that will use face recognition technology to identify and engage targets. Before moving to the complex systems needed for ANT, it is crucial to test the basic motor control functionality. The test project involves using the **Flipper Zero** to control two DC motors via an **L298N motor driver**. This process not only helps in understanding motor operations but also ensures the viability of Flipper Zero as the core controller for ANT.
+This project is an essential step toward creating **ANT** (Autonomous Nerf Turret), a device that will use face recognition technology to identify and engage targets. Before moving to the complex systems needed for ANT, it is crucial to test the basic motor control functionality. The test project involves using the **Flipper Zero** to control two DC motors via an **L298N motor driver**. This process not only helps in understanding motor operations but also ensures the viability of microcontroller controlled motors for ANT.
 
 ---
 
